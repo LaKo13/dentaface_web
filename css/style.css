@@ -230,7 +230,7 @@ a:active{
     outline: none;
 }
 img:not([draggable]), embed, object, video{
-    max-width: 100%;
+
     height: auto;
 }
 
@@ -1337,7 +1337,7 @@ a.bg-video-button-muted{
 .hs-line-14{
     margin-top: 0;
     position: relative;
-    font-size: 48px;
+    font-size: 38px;
     font-weight: 400;
     line-height: 1.4;
     text-transform: uppercase;
